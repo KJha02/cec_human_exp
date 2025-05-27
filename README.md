@@ -1,5 +1,6 @@
-# cec_human_exp
-Human Experiment Code for [Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination](https://kjha02.github.io/publication/cross-env-coop)
+# Cross-Environment Cooperation Human Experiment Code
+
+This repository contains the code for running the human experiments for the paper [Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination](https://kjha02.github.io/publication/cross-env-coop).
 
 ## Setup
 
